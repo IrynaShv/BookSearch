@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="32960fbd078cc4b1a5c471dc8d34b980d3581f5a">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_2ea94945fae3343e172e037a44abee39fd4fb920.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_6b4a7c160688acb78c51cb8a7e474e4c2ef2f297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_e1f5e2c7f38c429f6c6e1b9b56a5091f5c9370e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8439e7c956ba8be6c78791ab9286c6fb97c1df42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_6daeefbc31ff8294453d23a12c7a9be191f9c082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_180cd8c259a758822169238d2391ef6b2afb59cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_75d4bd28c3efa702977273aeddd3eb112ea445e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_886e1c11b80f1d612fa1688549e44483de6e07e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_12bad7bfad3909c98844092ff8310165afeb3020.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_a3b30413985730bad8d7f981b021695fb1cc676e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_60bef2a9c6f917c47bbf1ce22efb7eda83c3ddfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4f241be93a9a056ae9723ae5f421a0475a672a50">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/instant-run_aa9ad5b1c65f74a8370f5490a071a01d2d2405ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_a0734d5167ce9f462d1ffad245da65eb95b1030f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_4f82e1235c86b0873d68652e759a7839bc832a12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_1cf321c6925d7f485d540ecf5fa6eedbb03dab1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_405122c66919e4a12c7b20ce8bb5d462085a1018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_518cf8071cd98e723b3d93291a7c0304c28555f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_18e07a3f33e6b8e6bb3a54ab6d8397d7c7b6d67f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.1.1/d081ad6f7c51627ebe2dbf157cc525cbf5e9c821/parceler-api-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d081ad6f7c51627ebe2dbf157cc525cbf5e9c821">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/parceler-api-1.1.1_1baf50a8e4aee7125ff5373f1ee690ad941c4a32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_950387e3076bb01bca837a59d0afca8a5d62f0d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_1bfed33fae82a7f1425533f18bd6cbdfdfee9d56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_750d59e35d39a0975d5b0b9f054f4565045bf6d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ed0aa58a836f75328f5474b6b27cf6ad0774a325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_a524d3a295d2db19f6dd5e99a7f011d05d2b61a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_7944c4842f9960d473f132c210f0576b5583337e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_61309ce7890104338bcf24e0d156afde9b06df5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_02ee5db690d18e096b33e643b68b722997526092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_67dfaaf5f7763680baee252c422f0afe376bfd53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="55ed91a9fe477f30996c327aee840b03125b9028">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_bcf6c41090ab1c87681d9008cca5309ae8be3ec4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_df2fc54e3891768924ec07b88a2aa1151045ba57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_0495a5f3b861f74e1cb99185c7846f678e15a937.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_da40d82fbf2a4cf3c383cf0168490f92bc4262c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_39bd37cda37a63052acde381cbab282c78762a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_4b3d0c2f0514a4240c52dec042ff1645ac8c4d2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9f5c0344a949e133bfc08e75133bb3b457ef9bba">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/instant-run_9163c59c2bb0a6bc991560a19547d214a81aed65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_6417a4b212e109d9c1560b808839ef714c816a5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/shvydchenko/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_153d8def088ec287303333fd76f7b78a96740c7e.jar" />
+    </item>
+
+</items>
